@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-13",
+  "stories": [
+    {
+      "id": "ev-sales-september",
+      "title": "India’s EV market reaches a new monthly high",
+      "date": "2026-10-13",
+      "categories": [
+        "EVs"
+      ],
+      "source": "Rediff",
+      "url": "https://www.rediff.com/business/report/auto-india-ev-sales-surge-in-september-electric-car-sales-nearly-double-e-2w-sales-jump-89/20261013.htm",
+      "summary": "September’s record retail figures point to growing demand for electric cars and two-wheelers.",
+      "detail": "Rediff reports 333,634 EV retail sales across categories in September, up 74% year on year, citing FADA. Electric passenger vehicle sales rose 94.6%, while electric two-wheeler registrations increased 88.7%. These are monthly market figures, rather than a forecast for individual brands.",
+      "featured": true
+    },
+    {
+      "id": "vinfast-dealer-network",
+      "title": "VinFast plans a wider electric two-wheeler network",
+      "date": "2026-10-13",
+      "categories": [
+        "EVs"
+      ],
+      "source": "Construction World",
+      "url": "https://www.constructionworld.in/policy-updates-and-economic-news/vinfast-expands-india-ev-push-with-50-plus-e-motorcycle-showrooms/98716",
+      "summary": "Dealer agreements set out plans for more than 50 showrooms across India.",
+      "detail": "Construction World reports that VinFast signed letters of intent covering 34 cities in 15 states and territories. The agreements concern a dedicated electric motorcycle network. They describe planned expansion and should not be read as confirmation that all of these locations are already open.",
+      "featured": false
+    },
+    {
+      "id": "solar-grid-constraints",
+      "title": "Solar growth puts the spotlight on grid capacity",
+      "date": "2026-10-12",
+      "categories": [
+        "Solar"
+      ],
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/india-wastes-4-solar-power-amid-power-shortages-july-august-report-shows-2026-10-12/",
+      "summary": "A new report highlights the importance of delivering clean power as well as generating it.",
+      "detail": "Reuters, citing CREA, reports that grid constraints prevented absorption of about 4.2% of solar generation in July and August. India curtailed nearly 1.8 billion units of renewable electricity over that period, even as it experienced power shortages.",
+      "featured": true
+    },
+    {
+      "id": "maharashtra-solar-pumps",
+      "title": "Maharashtra farm project orders 5,000 solar pumps",
+      "date": "2026-10-12",
+      "categories": [
+        "Solar farming",
+        "Government schemes"
+      ],
+      "source": "Financial Express",
+      "url": "https://www.financialexpress.com/business/industry-saatvik-green-energy-bags-rs-100-crore-order-to-supply-5000-solar-pumps-in-maharashtra-4359221/",
+      "summary": "A new supply order brings standalone solar irrigation back into focus.",
+      "detail": "Financial Express reports that Saatvik secured an approximately ₹100 crore MSEDCL order under PM-KUSUM B. It covers installation of off-grid pumps and five years of maintenance, warranty and remote monitoring. This is a project order; it does not itself announce a new farmer application window.",
+      "featured": false
+    },
+    {
+      "id": "audi-local-ev-plans",
+      "title": "Audi considers building an electric car in India",
+      "date": "2026-10-11",
+      "categories": [
+        "EVs"
+      ],
+      "source": "Business Standard / PTI",
+      "url": "https://www.business-standard.com/companies/news/audi-india-mulls-local-ev-production-aims-to-double-mkt-share-in-3-5-years-126101100396_1.html",
+      "summary": "Local manufacturing is being evaluated as part of Audi’s India growth strategy.",
+      "detail": "Business Standard’s PTI report says Audi is considering local battery-electric vehicle production while aiming to expand its luxury-market share over three to five years. The report describes an option under consideration, rather than a confirmed production launch or a model availability date.",
+      "featured": false
+    },
+    {
+      "id": "trichy-rooftop-interest",
+      "title": "State solar support sparks more interest in Trichy",
+      "date": "2026-10-10",
+      "categories": [
+        "Solar",
+        "Government schemes"
+      ],
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/trichy/solar-subsidy-boosts-rooftop-installation-demand-two-fold-in-trichy/articleshow/134840234.cms",
+      "summary": "Rooftop enquiries and applications have increased following Tamil Nadu’s top-up subsidy announcement.",
+      "detail": "The Times of India reports that Trichy received 1,020 applications in two months after additional state support was announced under PM Surya Ghar. The report concerns Tamil Nadu; readers elsewhere should check their own state’s rules and electricity distributor before assuming the same support applies.",
+      "featured": true
+    }
+  ]
+}

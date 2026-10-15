@@ -1,0 +1,12 @@
+window.roadRules={
+ bengaluru:{mode:'karnataka',note:'Karnataka: private electric cars 5% up to ₹10 lakh, 8% above ₹10–25 lakh, 10% above ₹25 lakh. Electric two-wheelers remain road-tax exempt. Commercial classification and additional statutory charges need confirmation.',source:'https://transport.karnataka.gov.in/uploads/Taxation%20Notification_1781165374.pdf'},
+ delhi:{validUntil:'2030-03-31',mode:'delhi',note:'Delhi: EV road-tax exemption; electric cars limited to price up to ₹30 lakh. Above that threshold the current payable rate needs confirmation. Purchased and registered in Delhi under the 2026 policy.',source:'https://egazette.gov.in/WriteReadData/2026/273960.pdf'},
+ mumbai:{validUntil:'2030-03-31',mode:'zero',note:'Maharashtra EV policy: road-tax exemption for EVs sold and registered in the state, 1 April 2025–31 March 2030.',source:'https://transport.maharashtra.gov.in/Site/Upload/GR/EV%20Policy%202025%20dated%2023-05-2025.pdf'},
+ pune:{validUntil:'2030-03-31',mode:'zero',note:'Maharashtra EV policy: road-tax exemption for EVs sold and registered in the state, 1 April 2025–31 March 2030.',source:'https://transport.maharashtra.gov.in/Site/Upload/GR/EV%20Policy%202025%20dated%2023-05-2025.pdf'},
+ chennai:{validUntil:'2027-12-31',mode:'zero',note:'Tamil Nadu: battery-EV motor vehicle tax exemption through 31 December 2027, under GO 674.',source:'https://cms.tn.gov.in/cms_migrated/document/GO/home_e_674_2025_ms.pdf'},
+ hyderabad:{validUntil:'2026-12-31',mode:'zero',note:'Telangana: eligible electric vehicles purchased and registered by 31 December 2026 have road-tax exemption under GO 41.',source:'https://tggazette.cgg.gov.in/viewDocument/1734330174633'},
+ jaipur:{mode:'zero',note:'Rajasthan EV Policy 2022: motor vehicle and green tax exemption during the policy period through 2027. Confirm registration classification.',source:'https://istart.rajasthan.gov.in/public/pdf/REVP_2022.pdf'},
+ ahmedabad:{mode:'unknown',note:'Gujarat: the earlier temporary concession cannot safely be assumed to continue. Current road tax is unconfirmed here and is NOT treated as zero.',source:'https://cot.gujarat.gov.in/'},
+ kolkata:{mode:'unknown',note:'West Bengal: a current applicable exemption or rate was not verified. Road tax is unconfirmed here and is NOT treated as zero.',source:'https://transport.wb.gov.in/'},
+ lucknow:{mode:'unknown',note:'Uttar Pradesh: the amended exemption and your vehicle’s conditions need confirmation. Road tax is unconfirmed here and is NOT treated as zero.',source:'https://uptransport.upsdc.gov.in/'}
+};
